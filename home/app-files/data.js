@@ -24,9 +24,9 @@ var APP_DATA = {
       ],
       "faceSize": 1344,
       "initialViewParameters": {
-        "yaw": -0.020981726202350615,
-        "pitch": 0.1204472635392797,
-        "fov": 1.2543877506952101
+        "yaw": -0.16287909190678995,
+        "pitch": 0.13558834910311113,
+        "fov": 1.3419674740723089
       },
       "linkHotspots": [],
       "infoHotspots": []
@@ -35,8 +35,8 @@ var APP_DATA = {
   "name": "Project Title",
   "settings": {
     "mouseViewMode": "drag",
-    "autorotateEnabled": false,
-    "fullscreenButton": true,
+    "autorotateEnabled": true,
+    "fullscreenButton": false,
     "viewControlButtons": false
   }
 };
